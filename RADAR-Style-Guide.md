@@ -47,6 +47,6 @@ If you plan to contribute, please use the code style conventions defined at <htt
 Please visit out (Contributions Guide)[RADAR-Contributions.md] for more information about licensing and our commit process.
 For more information, contact [who?](Always Amos)
 
-Before contributing, be sure to read our [Code of Conduct](RADAR-Code-of-Conduct.md).
+Before contributing, be sure to read our [Code of Conduct](https://github.com/RADAR-CNS/RADAR-Overview/blob/master/RADAR-Code-of-Conduct.md).
 
 
