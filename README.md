@@ -20,6 +20,7 @@ To learn more about RADAR first visit <https://www.radar-cns.org/>.
 - Front-end > Web
 - Front-end > Mobile (iOS)
 - Front-end > Mobile (Android)
+- Platform management
 - Schemas
 - Content
 
