@@ -15,6 +15,7 @@ At least one of the following should be mentioned in this section:
 - Front-end > Web
 - Front-end > Mobile (iOS)
 - Front-end > Mobile (Android)
+- Platform Management
 - Schemas
 - Content
 
