@@ -10,7 +10,7 @@ This RADAR overview provides an overview of the installation of each major compo
 - Or download our preconfigured [Docker instances (beta!)](https://github.com/RADAR-CNS/RADAR-Docker)
 
 ## What is RADAR?
-To learn more about RADAR first visit [https://www.radar-cns.org/].
+To learn more about RADAR first visit <https://www.radar-cns.org/>.
 
 ## What kinds of tools are we developing?
 - Back-end > Storage
