@@ -42,9 +42,11 @@ If relevant, this section should describe the systems on which this repository h
 - Mac OS 10.11
 
 ## Contributing
-### Code Style Guide
-If you plan to contribute, please use the code style conventions defined at <http://somewhere>
 
-### How to Contribute
+If you plan to contribute, please use the code style conventions defined at <http://somewhere>
 Please visit out (Contributions Guide)[RADAR-Contributions.md] for more information about licensing and our commit process.
 For more information, contact [who?](Always Amos)
+
+Before contributing, be sure to read our [Code of Conduct](RADAR-Code-of-Conduct.md).
+
+
