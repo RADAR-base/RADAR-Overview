@@ -34,7 +34,7 @@ This section will describe the languages and libraries necessary to build this r
 
 ### Building
 #### Build Steps
-This will list the steps necessary to build the repository.
+This section is optional, for repositories that can be built will list the steps necessary to build the repository.
 
 #### Environments Used
 If relevant, this section should describe the systems on which this repository has been validated to run including OS and OS version.
