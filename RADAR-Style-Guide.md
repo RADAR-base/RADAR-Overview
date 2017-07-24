@@ -27,6 +27,7 @@ This section will describe any specific dependencies on other libraries in the R
 The second paragraph of every repository will briefly discuss and link to any other RADAR repositories that interact with or depend upon this repository. 
 
 #### Needed to build
+This section will describe the languages and libraries necessary to build this repository.
 - ECMAScript 5
 - node v5.0 or greater
 - npm 
