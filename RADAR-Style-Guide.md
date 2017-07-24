@@ -21,8 +21,15 @@ At least one of the following should be mentioned in this section:
 ## Getting Started
 
 ### Dependencies
+
+#### Within RADAR
 This section will describe any specific dependencies on other libraries in the RADAR organization.
 The second paragraph of every repository will briefly discuss and link to any other RADAR repositories that interact with or depend upon this repository. 
+
+#### Needed to build
+- ECMAScript 5
+- node v5.0 or greater
+- npm 
 
 ### Building
 #### Build Steps
@@ -32,9 +39,6 @@ This will list the steps necessary to build the repository.
 If relevant, this section should describe the systems on which this repository has been validated to run including OS and OS version.
 - Ubuntu Server 16.04.2 LTS
 - Mac OS 10.11
-
-#### Languages/Frameworks Used
-- Java SE 8
 
 ## Contributing
 ### Code Style Guide
