@@ -3,7 +3,7 @@
 This RADAR overview provides an overview of the installation of each major component of the RADAR toolkit.
 
 ## Getting Started
-- Visit the [Quick Build (beta!)](RADAR-Quick-Build) to build a simple end-to-end version of the ssytem
+- Visit the [Quick Build (beta!)](RADAR-Quick-Build) to build a simple end-to-end version of the system
 - Or download our preconfigured [Docker instance](https://github.com/RADAR-CNS/RADAR-Docker)
 - Visit our [Repository Review](RADAR-Repository-Review.md)
 - Check out our [Style Guide](RADAR-Style-Guide.md) to understand what to expect of each repository
