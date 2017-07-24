@@ -36,5 +36,10 @@ If relevant, this section should describe the systems on which this repository h
 #### Languages/Frameworks Used
 - Java SE 8
 
-## How to Contribute
-This should list the primary person to contact [who?]()
+## Contributing
+### Code Style Guide
+If you plan to contribute, please use the code style conventions defined at <http://somewhere>
+
+### How to Contribute
+Please visit out (Contributions Guide)[RADAR-Contributions.md] for more information about licensing and our commit process.
+For more information, contact [who?](Always Amos)
